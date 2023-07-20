@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/vadim2030/project-1#readme",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "npx": "^10.2.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.45.0",
+    "prettier": "^3.0.0"
   }
 }
